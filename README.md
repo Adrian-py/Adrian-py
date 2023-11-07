@@ -1,10 +1,8 @@
 **Hello There! 👋🙋‍♂️**
 
-I am currently a Computer Science Student from Indonesia 📚
+Computer Science Student @Bina Nusantara University | Indonesia
 
-I spend most of my time pursuing **Frontend Development**, mostly using ***React*** and ***SASS*** to create most of my projects.
-
-Some of my interests🎇 and aspirations🏆 for the future are:
-* Creating interesting web applications with stunning design and functionalities
-* Being able to help guide new comers in the world of 💻 **Web Development**
-* Contributing in interesting and amazing ✨projects✨
+*Interests*
+1. Fullstack Development
+2. Blockchain
+3. Web3 Technology

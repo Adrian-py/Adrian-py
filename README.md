@@ -1,12 +1,11 @@
 # Hello Visitor 👋
 
-I'm Adrian Hartanto and I am a final-year Computer Science 💻 student from the beautiful country of Indonesia. My current goal is to focus more on self-development and furthering my career in the Software Development industry
+I'm Adrian Hartanto and I am a final-year Computer Science 💻 student from the beautiful country of Indonesia. My current goal is to focus more on self-development and furthering my career in the tech industry.
 
 ## What I'm Excited About 🚀
 
 - **Web Development** - Creating interesting and useful web interfaces
 - **Blockchain** - Exploring the world of decentralization
-- **Coffee Enthusiast** - Transforming caffeine into ✨*dreams*✨
 
 ## My Toolbox 🛠
 
